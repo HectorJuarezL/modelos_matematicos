@@ -1,0 +1,100 @@
+Categoria,Compañía,Emisora
+Nacional,"Arca Continental, S.A.B. de C.V.",AC.MX
+Nacional,"Grupo Aeroméxico, S.A.B. de C.V.",AEROMEX.MX
+Nacional,"Alfa, S. A. B. de C. V.",ALFAA.MX
+Nacional,"ALPEK, S.A.B. de C.V.",ALPEKA.MX
+Nacional,"Alsea, S.A.B. de C.V.",ALSEA.MX
+Nacional,"América Móvil, S.A.B. de C.V.",AMXL.MX
+Nacional,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",ASURB.MX
+Nacional,"TV Azteca, S.A.B. de C.V.",AZTECACPO.MX
+Nacional,"Industrias Bachoco, S.A.B. de C.V.",BACHOCOB.MX
+Nacional,"Banco del Bajío, S.A., Institución de Banca Múltiple",BBAJIOO.MX
+Nacional,"Grupo Bimbo, S.A.B. de C.V.",BIMBOA.MX
+Nacional,"Bolsa Mexicana de Valores, S.A.B. de C.V.",BOLSAA.MX
+Nacional,"CEMEX, S.A.B. de C.V.",CEMEXCPO.MX
+Nacional,"Grupo Comercial Chedraui, S.A.B. de C.V.",CHDRAUIB.MX
+Nacional,"Becle, S.A.B. de C.V.",CUERVO.MX
+Nacional,Fibra Danhos,DANHOS13.MX
+Nacional,"Fomento Económico Mexicano, S.A.B. de C.V.",FEMSAUBD.MX
+Nacional,FIBRA Macquarie México,FIBRAMQ12.MX
+Nacional,FIBRA Prologis,FIBRAPL14.MX
+Nacional,"Fibra Mty, S.A.P.I. de C.V.",FMTY14.MX
+Nacional,Fibra UNO,FUNO11.MX
+Nacional,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",GAPB.MX
+Nacional,"Grupo Carso, S.A.B. de C.V.",GCARSOA1.MX
+Nacional,"Grupo Financiero Inbursa, S.A.B. de C.V.",GFINBURO.MX
+Nacional,"Grupo Financiero Banorte, S.A.B. de C.V.",GFNORTEO.MX
+Nacional,"Grupo México, S.A.B. de C.V.",GMEXICOB.MX
+Nacional,"Gruma, S.A.B. de C.V.",GRUMAB.MX
+Nacional,"Hoteles City Express, S.A.B. de C.V.",HCITY.MX
+Nacional,"Grupo Herdez, S.A.B. de C.V.",HERDEZ.MX
+Nacional,"Infraestructura Energética Nova, S.A.B. de C.V.",IENOVA.MX
+Nacional,"Kimberly-Clark de México, S. A. B. de C. V.",KIMBERA.MX
+Nacional,"Genomma Lab Internacional, S.A.B. de C.V.",LABB.MX
+Nacional,"La Comer, S.A.B. de C.V.",LACOMERUBC.MX
+Nacional,"El Puerto de Liverpool, S.A.B. de C.V.",LIVEPOLC-1.MX
+Nacional,"Megacable Holdings, S. A. B. de C. V.",MEGACPO.MX
+Nacional,"Nemak, S. A. B. de C. V.",NEMAKA.MX
+Nacional,"Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",OMAB.MX
+Nacional,"Industrias Peñoles, S.A.B. de C.V.",PE&OLES.MX
+Nacional,"Promotora y Operadora de Infraestructura, S. A. B. de C. V.",PINFRA.MX
+Nacional,"Quálitas Controladora, S.A.B. de C.V.",Q.MX
+Nacional,Regional S.A.B. de C.V.,RA.MX
+Nacional,"Telesites, S.A.B. de C.V.",SITESB-1.MX
+Nacional,"Organización Soriana, S. A. B. de C. V.",SORIANAB.MX
+Nacional,"Grupo Sports World, S.A.B. de C.V.",SPORTS.MX
+Nacional,Fibra Terrafina,TERRA13.MX
+Nacional,"Grupo Televisa, S.A.B.",TLEVISACPO.MX
+Nacional,Corporación Inmobiliaria Vesta S.A.B. de C.V.,VESTA.MX
+Nacional,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",VOLARA.MX
+Nacional,"Wal-Mart de México, S.A.B. de C.V.",WALMEX.MX
+Extranjero,Apple Inc.,AAPL.MX
+Extranjero,"Advanced Micro Devices, Inc.",AMD.MX
+Extranjero,"Amazon.com, Inc.",AMZN.MX
+Extranjero,American Express Company,AXP.MX
+Extranjero,The Boeing Company,BA.MX
+Extranjero,Bank of America Corporation,BAC.MX
+Extranjero,"Baidu, Inc.",BIDUN.MX
+Extranjero,Berkshire Hathaway Inc.,BRKB.MX
+Extranjero,"Beyond Meat, Inc.",BYND.MX
+Extranjero,Citigroup Inc.,C.MX
+Extranjero,Costco Wholesale Corporation,COST.MX
+Extranjero,"salesforce.com, inc.",CRM.MX
+Extranjero,"Cisco Systems, Inc.",CSCO.MX
+Extranjero,CVS Health Corporation,CVS.MX
+Extranjero,"Delta Air Lines, Inc.",DAL.MX
+Extranjero,The Walt Disney Company,DIS.MX
+Extranjero,"Facebook, Inc.",FB.MX
+Extranjero,Freeport-McMoRan Inc.,FCX.MX
+Extranjero,General Electric Company,GE.MX
+Extranjero,"Gilead Sciences, Inc.",GILD.MX
+Extranjero,Alphabet Inc.,GOOGL.MX
+Extranjero,Intel Corporation,INTC.MX
+Extranjero,Johnson & Johnson,JNJ.MX
+Extranjero,JPMorgan Chase & Co.,JPM.MX
+Extranjero,The Coca-Cola Company,KO.MX
+Extranjero,Mastercard Incorporated,MA.MX
+Extranjero,MGM Resorts International,MGM.MX
+Extranjero,Microsoft Corporation,MSFT.MX
+Extranjero,"Micron Technology, Inc.",MU.MX
+Extranjero,"Netflix, Inc.",NFLX.MX
+Extranjero,"NIKE, Inc.",NKE.MX
+Extranjero,NVIDIA Corporation,NVDA.MX
+Extranjero,Pfizer Inc.,PFE.MX
+Extranjero,The Procter & Gamble Company,PG.MX
+Extranjero,"PayPal Holdings, Inc.",PYPL.MX
+Extranjero,QUALCOMM Incorporated,QCOM.MX
+Extranjero,Starbucks Corporation,SBUX.MX
+Extranjero,AT&T Inc.,T.MX
+Extranjero,Tencent Holdings Limited,TCEHYN.MX
+Extranjero,"Tesla, Inc.",TSLA.MX
+Extranjero,"Twitter, Inc.",TWTR.MX
+Extranjero,"United Airlines Holdings, Inc.",UAL.MX
+Extranjero,"Uber Technologies, Inc.",UBER.MX
+Extranjero,Visa Inc.,V.MX
+Extranjero,Wells Fargo & Company,WFC.MX
+Extranjero,Walmart Inc.,WMT.MX
+Extranjero,"Wynn Resorts, Limited",WYNN.MX
+Extranjero,United States Steel Corporation,X.MX
+Extranjero,Exxon Mobil Corporation,XOM.MX
+
